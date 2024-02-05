@@ -10,5 +10,6 @@ scipy
 seaborn
 matplotlib
 gsw
+pyarrow
 
--e .
+# -e .
